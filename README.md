@@ -1,5 +1,2 @@
 # mojcms
-Jest to moja praca inżynierska. 
-Pokazuje tylko umiejętność w tworzeniu aplikacji od zera wykorzystując CakePHP3.
-Niektóre funkcjonalności mogą być zrobione na szybko - np. linkowanie.
-Wrzucona wersja jest zawsze stabilnaa zmiany testowane.
+This is my engineering thesis. It only shows the skill in creating applications from scratch using CakePHP3 MVC library.
